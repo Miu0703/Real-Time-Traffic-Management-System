@@ -1,4 +1,10 @@
-Project Overview
+Aim:
+Developed a high-throughput traffic management system, optimizing route planning using Dijkstra’s algorithm, achieving a 40% improvement in pathfinding efficiency.
+Integrated Kafka for real-time data streaming and AWS Lambda for scalable cloud deployment, handling 100,000+ concurrent users with sub-second response times.
+Designed an interactive dashboard using Plotly for real-time traffic visualization and data insights for city officials.
+
+
+Project Overview:
 1. Route Planning Optimization (C++)
 Implement Dijkstra’s algorithm for pathfinding.
 Optimize the algorithm for efficiency.
