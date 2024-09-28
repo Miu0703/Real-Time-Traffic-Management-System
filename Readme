@@ -1,0 +1,13 @@
+Project Overview
+1. Route Planning Optimization (C++)
+Implement Dijkstra’s algorithm for pathfinding.
+Optimize the algorithm for efficiency.
+
+2. Real-Time Data Streaming (Kafka)
+Set up Kafka for handling real-time traffic data streams.
+
+3.Scalable Cloud Deployment (AWS Lambda)
+Deploy serverless functions using AWS Lambda to handle concurrent users.
+
+4. Interactive Dashboard (Plotly)
+Create a real-time dashboard for traffic visualization and data insights.
